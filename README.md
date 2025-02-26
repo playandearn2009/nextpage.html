@@ -1,0 +1,2 @@
+# nextpage.html
+details
